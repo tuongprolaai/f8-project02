@@ -504,6 +504,7 @@ a {
 
 .features .row:last-child .list-images {
     width: 470px;
+    height: 440px;
 }
 
 .features .row:last-child .features-info {
@@ -512,6 +513,8 @@ a {
 
 .features .row:last-child .list-images img {
     width: 100%;
+    margin-top: 0;
+    height: auto;
 }
 
 .blog {
